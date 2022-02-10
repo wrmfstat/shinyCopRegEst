@@ -6,6 +6,3 @@ res_reg_ph025 até res_reg_yp_075: 9 arquivos resultantes da subdivisão do arqu
 para cada combinação de classe de modelo de regressão e correlação tau verdadeira.
 
 tab_reg: arquivo com tabela-resumo de estatísticas de interesse de resultados em res_reg.
-
-Para submissão no site do departamento, a depender do código de aplicativo do Shiny, sub-
-meta ou res_reg, ou os 9 arquivos resultantes de sua partição.
