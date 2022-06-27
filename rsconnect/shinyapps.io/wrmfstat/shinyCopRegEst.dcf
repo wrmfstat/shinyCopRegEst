@@ -1,0 +1,14 @@
+name: shinyCopRegEst
+title: shinyCopRegEst
+username:
+account: wrmfstat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5659157
+bundleId: 5587166
+url: https://wrmfstat.shinyapps.io/shinyCopRegEst/
+when: 1645042871.15639
+lastSyncTime: 1645042871.15639
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app_old_1.R|app_test_web.R|copShinyServers_Reg.R|copShinyUIs_Reg.R|LeiaMe.txt|server.R|shinyapp.R|ui.R|res_exc_cop

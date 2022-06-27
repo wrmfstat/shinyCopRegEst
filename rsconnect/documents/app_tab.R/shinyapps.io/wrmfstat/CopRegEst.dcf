@@ -1,0 +1,14 @@
+name: CopRegEst
+title: CopRegEst
+username:
+account: wrmfstat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5659110
+bundleId: 5681291
+url: https://wrmfstat.shinyapps.io/CopRegEst/
+when: 1647259290.59789
+lastSyncTime: 1647259290.59789
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app_tab_old1.R|app_test_web.R|app1reg.R|app1reg_old1.R|app2cri.R|app3cor.R|app4lrt.R|copShinyServers_Reg.R|copShinyUIs_Reg.R|LeiaMe.txt|res_exc_reg/tab_lrt.rds|res_exc_reg/tab_lrt_ph.rds|res_exc_reg/tab_lrt_po.rds|res_exc_reg/tab_lrt_yp.rds|shinyapp.R|res_exc_cop
